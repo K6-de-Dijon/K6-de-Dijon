@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything that facilitates the use of computers in French.
 - 🌱 I’m currently learning to use fontmatrix
 - 💞️ I’m looking to collaborate to translate
-- 📫 How to reach me ...
+- 📫 How to reach me k6dedijon <at> free.fr
 - I have been interested in computers since 1973 and I am 100% on Linux since 2006.
 
 <!---
